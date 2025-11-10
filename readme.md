@@ -1,6 +1,8 @@
 # 🧮 MIPS Scientific Calculator
 
-![Calculator Screenshot](images/calculator-screenshot.png)
+
+
+<img width="377" height="493" alt="calculator-screenshot png" src="https://github.com/user-attachments/assets/41583da0-4cfe-44ec-8641-bd5c3d3ef6c6" />
 
 A high-performance scientific calculator featuring **MIPS Assembly backend** and **Python Tkinter frontend**, developed as part of Computer Organization and Architecture coursework. This project demonstrates the integration of low-level assembly programming with modern GUI development.
 
@@ -41,4 +43,5 @@ git clone https://github.com/JamalAhmed2252/mips-scientific-calculator.git
 cd mips-scientific-calculator
 
 # Run the calculator
+
 python launcher.py
